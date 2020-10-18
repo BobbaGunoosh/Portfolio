@@ -20,9 +20,9 @@ export default {
     },
     {
       id: 2, 
-      title: "CSS Card Project",
-      imageSrc: "assets/portfolio2.jpg",
-      url: "https://portcards.netlify.app/",
+      title: "Quiz Application",
+      imageSrc: "assets/jack.jpg",
+      url: "https://youdontknowjack.netlify.app/",
     },
     {
       id: 3, 
